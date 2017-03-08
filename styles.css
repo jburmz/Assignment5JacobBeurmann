@@ -1,0 +1,9 @@
+.block
+{
+    width: 410px;
+	font-size: 140%;
+    height: 32px;
+    border: 1px solid black;
+    display: block;
+	margin: auto;
+}
